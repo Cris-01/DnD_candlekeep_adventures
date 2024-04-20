@@ -1,6 +1,6 @@
 Giocatore: Daniel
 Classe: Stregone
-Sottoclasse: Anima Divina?
+Sottoclasse: Mente Aberrante
 Background: 
 
 Oggetti importanti:

@@ -5,4 +5,4 @@ Background: Bibliotecario
 
 Oggetti importanti:
 
-- [[Mantello del pipistrello]] (raro)
+- [[Ali del volo]] (raro)

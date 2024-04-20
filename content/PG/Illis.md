@@ -6,4 +6,4 @@ Background:
 
 Oggetti importanti:
 
-- [[Statuetta del potere meraviglioso, Cane di Onice]]
+- [[Statuetta del potere meraviglioso, Cane di Onice]] (raro)
