@@ -1,6 +1,10 @@
----
-title: Welcome to Quartz
----
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Sezioni
+
+- Recap sessioni - [[Sessione 00 - recap sessioni passate]]
+- Luoghi - 
+- NPC - 
+- Oggetti - 
+- PG - [[Cyradil]]
+
+
